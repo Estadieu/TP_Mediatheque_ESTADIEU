@@ -17,7 +17,7 @@ Installation
 
 Cloner le dépôt :
 
-git clone https://github.com/VOTRE_UTILISATEUR/VOTRE_DEPOT.git
+git clone https://github.com/Estadieu/TP_Mediatheque_ESTADIEU
 
 Se déplacer dans le projet :
 
