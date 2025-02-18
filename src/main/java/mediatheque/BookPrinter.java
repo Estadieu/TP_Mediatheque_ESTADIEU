@@ -5,7 +5,8 @@ public class BookPrinter implements ItemVisitor{
     public BookPrinter(){
     }
     public void visit (Book b){
-        System.out.println(b.toString());
+    //Affichage
+    b.print();
     }
     @Override
     public void visit(CD c) {
